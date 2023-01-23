@@ -30,7 +30,7 @@ const NavMd = () =>{
             type="search"
             className = "w-full bg-transparent border-none focus:outline-none "
             placeholder=" Search for movie , events,  "
-
+            />
         </div>
         </>
     );
